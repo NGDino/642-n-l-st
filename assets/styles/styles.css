@@ -1,0 +1,30 @@
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#price-box{
+    margin: auto;
+    text-align: center
+}
+
+#price{
+    display: inline-block;
+}
+
+#zest{
+    display: inline-block;
+}
+
+.bed-bath{
+    display: inline-block;
+}
+
+#description{
+    font-size: .85em;
+}
+
+#features{
+    max-width: 100%;
+}
+
